@@ -1,0 +1,10 @@
+var a=3;
+var b=5;
+var c=a+b;
+var d=a-b;
+var e=a*b;
+var g=a/b;
+console.log('la somme egal a :',c);
+console.log('la diference egal a :',d);
+console.log('la multiplication egal a :'+e);
+console.log('la division egal a :'+g);
